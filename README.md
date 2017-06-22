@@ -1,5 +1,5 @@
 # Coding-Interview-Practice
-Coding interview practice problems, from various sources. Going to do at least one problem per day until I get a job.
+Coding interview practice problems, from various sources.
 
 ## Max Sub Array Problem
 Find the subarray with the largest sum
@@ -12,3 +12,7 @@ PairWithGivenSum.java
 ## Binary Search
 Simple implementation of the Binary Search algorithm O(log n)
 binary_search.py
+
+## Rod Cutting
+The classic rod cutting dynamic programming problem
+rod_cutting.py
