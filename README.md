@@ -16,3 +16,7 @@ binary_search.py
 ## Rod Cutting
 The classic rod cutting dynamic programming problem
 rod_cutting.py
+
+## How Many Steps
+How many different ways can a child climb n steps if they can climb 1,2, or 3 steps at a time? From cracking the coding interview.
+HowManySteps.cs
